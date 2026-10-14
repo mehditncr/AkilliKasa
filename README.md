@@ -1,0 +1,2 @@
+Akıllı Kasa programının amacı, kullanıcının girdiği ürün tutarı ve ödenen para bilgilerine göre müşteriye verilmesi gereken para üstünü hesaplamak ve bu para üstünü mümkün olan en az sayıda banknot ve madeni parayla göstermektir.
+Programda ürün tutarı ve ödenen para float türünde tutulur. Ondalıklı sayıların hassasiyetinden kaynaklanabilecek hataları önlemek için para üstü kuruş cinsine çevrilir ve round() fonksiyonu ile yuvarlanır. Daha sonra büyük küpürlerden başlanarak kaç adet gerektiği hesaplanır ve toplam küpür sayısı ekrana yazdırılır.
